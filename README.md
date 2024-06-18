@@ -44,7 +44,7 @@ The project is organized into several main components, each responsible for diff
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/weather-forecast-app.git](https://github.com/AlexanderAdegbenro/WeatherForecast.git
+    git clone https://github.com/AlexanderAdegbenro/WeatherForecast.git
     cd weather-forecast-app
     ```
 
